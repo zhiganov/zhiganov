@@ -12,7 +12,7 @@ Co-founder of [Harmonica](https://harmonica.chat) — AI-powered platform for as
 
 #### Interests
 
-Governance, collective intelligence, facilitation, LLMs, game theory, boardgames
+Governance, facilitation, AI agents, metacrisis, boardgames
 
 #### Contact
 
