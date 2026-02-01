@@ -1,6 +1,6 @@
 ### Hey, I'm Artem 👋
 
-Co-founder of [Harmonica](https://harmonica.chat) — AI-powered platform for async multiplayer sensemaking.
+Citizen of Earth. Co-founder of [Harmonica](https://harmonica.chat) Member of Metagov. Fellow of Newspeak House.
 
 #### What I'm building
 
