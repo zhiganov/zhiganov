@@ -10,6 +10,12 @@ Co-founder of [Harmonica](https://harmonica.chat) — AI-powered platform for as
 📰 **[scenius-digest](https://github.com/sensemaking-scenius/scenius-digest)** — Auto-generate weekly digests from group chats and meetings
 🎵 **[navidrome-jam](https://github.com/zhiganov/navidrome-jam)** — Synchronized listening parties for Navidrome
 
+#### Claude Code slash commands
+
+🔍 **[claude-audit-oss](https://github.com/zhiganov/claude-audit-oss)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
+📋 **[claude-load-tasks](https://github.com/zhiganov/claude-load-tasks)** — Save and restore task lists across Claude Code sessions
+📊 **[claude-report-sessions](https://github.com/zhiganov/claude-report-sessions)** — Generate session analytics reports from PostHog
+
 #### Interests
 
 Governance, facilitation, AI agents, metacrisis, boardgames
