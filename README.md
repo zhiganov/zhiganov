@@ -14,8 +14,6 @@ Citizen of Earth. Co-founder of [Harmonica](https://harmonica.chat). Member of M
 #### Claude Code slash commands
 
 🔍 **[claude-audit-oss](https://github.com/zhiganov/claude-audit-oss)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
-📋 **[claude-load-tasks](https://github.com/zhiganov/claude-load-tasks)** — Save and restore task lists across Claude Code sessions
-📊 **[claude-report-sessions](https://github.com/zhiganov/claude-report-sessions)** — Generate session analytics reports from PostHog
 
 #### Interests
 
