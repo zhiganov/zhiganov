@@ -17,6 +17,7 @@ Citizen of Earth. Co-founder of [Harmonica](https://harmonica.chat). Member of M
 
 #### Claude Code slash commands
 
+🪗 **[harmonica-chat](https://github.com/zhiganov/harmonica-chat)** — Create Harmonica deliberation sessions from the terminal
 🔍 **[claude-audit-oss](https://github.com/zhiganov/claude-audit-oss)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
 🏛️ **[claude-living-structure](https://github.com/zhiganov/claude-living-structure)** — Audit software against Christopher Alexander's [15 Properties of Living Structure](https://en.wikipedia.org/wiki/The_Nature_of_Order)
 
