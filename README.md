@@ -7,7 +7,7 @@ Citizen of Earth. Co-founder of [Harmonica](https://harmonica.chat). Member of M
 🪗 **[Harmonica](https://github.com/harmonicabot)** — Async multiplayer sensemaking, facilitated by AI agent
 📚 **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — Patterns and prompts for AI-assisted group facilitation
 📰 **[scenius-digest](https://github.com/sensemaking-scenius/scenius-digest)** — Auto-generate weekly digests from group chats and meetings
-🎵 **[navidrome-jam](https://github.com/zhiganov/navidrome-jam)** — Synchronized listening parties for Navidrome
+🎵 **[navidrome-jam](https://github.com/zhiganov/navidrome-jam)** — Synchronized listening parties with friends
 
 #### Chrome extensions
 
