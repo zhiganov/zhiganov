@@ -8,16 +8,13 @@ Citizen of Earth. Co-founder of [Harmonica](https://harmonica.chat). Member of M
 📚 **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — Patterns and prompts for AI-assisted group facilitation
 📰 **[scenius-digest](https://github.com/sensemaking-scenius/scenius-digest)** — Auto-generate weekly digests from group chats and meetings
 🎵 **[navidrome-jam](https://github.com/zhiganov/navidrome-jam)** — Synchronized listening parties with friends
+📑 **[Tab Hoarder](https://github.com/zhiganov/tab-hoarder)** — Manage browser tabs locally (Toby alternative)
 
 #### Citizen Infrastructure
 
 🏘️ **[Dear Neighbors](https://github.com/Citizen-Infra/dear-neighbors)** — Neighborhood dashboard Chrome extension with community-curated local news + participation opportunities
 🌐 **[My Community](https://github.com/Citizen-Infra/my-community)** — Community dashboard Chrome extension with curated digests, Bluesky network feed, and participation opportunities
 🛠️ **[community-admin](https://github.com/Citizen-Infra/community-admin)** — Admin platform for community organizers — self-service onboarding, event management, Harmonica integration
-
-#### Chrome extensions
-
-📑 **[Tab Hoarder](https://github.com/zhiganov/tab-hoarder)** — Manage browser tabs locally (Toby alternative)
 
 #### Claude Code slash commands
 
