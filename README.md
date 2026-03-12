@@ -1,6 +1,6 @@
 ### Hey, I'm Artem 👋
 
-Citizen of Earth. Founder of [Harmonica](https://harmonica.chat). Member of Metagov. Fellow of Newspeak House.
+Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-boundaries.html). Founder of [Harmonica](https://harmonica.chat). Member of Metagov. Fellow of Newspeak House.
 
 #### What I'm building
 
