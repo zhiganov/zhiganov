@@ -19,7 +19,7 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 #### Claude Code skills
 
 🪗 **[harmonica-chat](https://github.com/zhiganov/harmonica-chat)** — Create Harmonica deliberation sessions from the terminal
-🔍 **[claude-audit-oss](https://github.com/zhiganov/claude-audit-oss)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
+🔍 **[claude-oss-audit](https://github.com/zhiganov/claude-oss-audit)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
 🏛️ **[claude-living-structure](https://github.com/zhiganov/claude-living-structure)** — Audit software against Christopher Alexander's [15 Properties of Living Structure](https://en.wikipedia.org/wiki/The_Nature_of_Order)
 🎨 **[claude-ui-audit](https://github.com/zhiganov/claude-ui-audit)** — Audit UI features against component patterns, mobile UX, accessibility, and JTBD job mapping
 
