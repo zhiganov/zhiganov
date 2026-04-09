@@ -12,6 +12,8 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 #### Citizen Infrastructure
 
+📅 **[Avails](https://github.com/Citizen-Infra/avails)** — Open-source group scheduling on the AT Protocol, with embedded MCP endpoint for AI agents
+🤝 **[open-collective-mcp](https://github.com/Citizen-Infra/open-collective-mcp)** — MCP server for managing Open Collective pages
 🏘️ **[Dear Neighbors](https://github.com/Citizen-Infra/dear-neighbors)** — Neighborhood dashboard Chrome extension with community-curated local news + participation opportunities
 🌐 **[My Community](https://github.com/Citizen-Infra/my-community)** — Community dashboard Chrome extension with curated digests, Bluesky network feed, and participation opportunities
 🛠️ **[community-admin](https://github.com/Citizen-Infra/community-admin)** — Admin platform for community organizers — self-service onboarding, event management, Harmonica integration
