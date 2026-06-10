@@ -15,7 +15,7 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 #### Citizen Infrastructure
 
-📖 **[Citizen Infrastructure Wiki](https://github.com/Citizen-Infra/wiki)** — A public, plain-language wiki for citizens about deliberation, civic tech, the commons, and real-world run reports ([citizen-infra.netlify.app](https://citizen-infra.netlify.app))
+📖 **[Citizen Infrastructure Wiki](https://github.com/Citizen-Infra/wiki)** — A public, plain-language wiki for citizens about deliberation, civic tech, the commons, and real-world run reports
 📅 **[Avails](https://github.com/Citizen-Infra/avails)** — Open-source group scheduling on the AT Protocol, with embedded MCP endpoint for AI agents
 🤝 **[open-collective-mcp](https://github.com/Citizen-Infra/open-collective-mcp)** — MCP server for managing Open Collective pages
 🌐 **[My Community](https://github.com/Citizen-Infra/my-community)** — Community dashboard Chrome extension with curated digests, Bluesky network feed, and participation opportunities
