@@ -6,17 +6,19 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 🪗 **[Harmonica](https://github.com/harmonicabot)** — Async multiplayer sensemaking, facilitated by AI agent
 📚 **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — Patterns and prompts for AI-assisted group facilitation
+🪷 **[Attention Commons](https://github.com/zhiganov/attention-commons)** — Stewarding collective attention as a commons — contemplative practice, commons, and integral thought ([attentioncommons.org](https://attentioncommons.org))
+📕 **[Book Power](https://bookpower.org)** — Turn books into AI avatars, skills, and MCP servers
+🎩 **[Vectorian](https://vectorian.world)** — A living, AI-driven simulation of late-Victorian London (1888) you can explore and inhabit
 📰 **[scenius-digest](https://github.com/sensemaking-scenius/scenius-digest)** — Auto-generate weekly digests from group chats and meetings
 🎵 **[navidrome-jam](https://github.com/zhiganov/navidrome-jam)** — Synchronized listening parties with friends
 📑 **[Tab Hoarder](https://github.com/zhiganov/tab-hoarder)** — Manage browser tabs locally (Toby alternative)
 
 #### Citizen Infrastructure
 
+📖 **[Citizen Infrastructure Wiki](https://github.com/Citizen-Infra/wiki)** — A public, plain-language wiki for citizens about deliberation, civic tech, the commons, and real-world run reports ([citizen-infra.netlify.app](https://citizen-infra.netlify.app))
 📅 **[Avails](https://github.com/Citizen-Infra/avails)** — Open-source group scheduling on the AT Protocol, with embedded MCP endpoint for AI agents
 🤝 **[open-collective-mcp](https://github.com/Citizen-Infra/open-collective-mcp)** — MCP server for managing Open Collective pages
-🏘️ **[Dear Neighbors](https://github.com/Citizen-Infra/dear-neighbors)** — Neighborhood dashboard Chrome extension with community-curated local news + participation opportunities
 🌐 **[My Community](https://github.com/Citizen-Infra/my-community)** — Community dashboard Chrome extension with curated digests, Bluesky network feed, and participation opportunities
-🛠️ **[community-admin](https://github.com/Citizen-Infra/community-admin)** — Admin platform for community organizers — self-service onboarding, event management, Harmonica integration
 
 #### Claude Code skills
 
