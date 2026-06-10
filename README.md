@@ -4,7 +4,7 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 #### What I'm building
 
-🪗 **[Harmonica](https://github.com/harmonicabot)** — Async multiplayer sensemaking, facilitated by AI agent
+🪗 **[Harmonica](https://github.com/harmonicabot)** — A runtime for facilitation protocols
 📚 **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — Patterns and prompts for AI-assisted group facilitation
 🪷 **[Attention Commons](https://github.com/zhiganov/attention-commons)** — Stewarding a knowledge commons on contemplative traditions, governance, and integral thought
 📕 **[Book Power](https://bookpower.org)** — Programmatic access to useful books via skills and MCP servers
