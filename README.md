@@ -6,7 +6,6 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 🪗 **[Harmonica](https://github.com/harmonicabot)** — A runtime for facilitation protocols
 📚 **[Open Facilitation Library](https://github.com/Open-Facilitation-Library)** — Patterns and prompts for AI-assisted group facilitation
-🪷 **[Attention Commons](https://github.com/zhiganov/attention-commons)** — Stewarding a knowledge commons on contemplative traditions, governance, and integral thought
 📕 **[Book Power](https://bookpower.org)** — Programmatic access to useful books via skills and MCP servers
 🎩 **[Vectorian](https://vectorian.world)** — A living, AI-driven simulation of late-Victorian London you can explore and inhabit
 📰 **[scenius-digest](https://github.com/sensemaking-scenius/scenius-digest)** — Auto-generate weekly digests from group chats and meetings
