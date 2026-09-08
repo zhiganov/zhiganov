@@ -19,7 +19,7 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 🤝 **[open-collective-mcp](https://github.com/Citizen-Infra/open-collective-mcp)** — MCP server for managing Open Collective pages
 🌐 **[My Community](https://github.com/Citizen-Infra/my-community)** — Community dashboard Chrome extension with curated digests, Bluesky network feed, and participation opportunities
 
-#### Claude Code skills
+#### Skills for AI agents
 
 🪗 **[harmonica-chat](https://github.com/zhiganov/harmonica-chat)** — Create Harmonica deliberation sessions from the terminal
 🔍 **[claude-oss-audit](https://github.com/zhiganov/claude-oss-audit)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
