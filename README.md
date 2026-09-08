@@ -21,7 +21,7 @@ Citizen of [Earth](https://www.stockholmresilience.org/research/planetary-bounda
 
 #### Skills for AI agents
 
-🪗 **[harmonica-chat](https://github.com/zhiganov/harmonica-chat)** — Create Harmonica deliberation sessions from the terminal
+🪗 **[harmonica-chat](https://github.com/zhiganov/harmonica-chat)** — Create Harmonica deliberation sessions from CLI
 🔍 **[claude-oss-audit](https://github.com/zhiganov/claude-oss-audit)** — Audit OSS projects against best practices from [Producing OSS](https://producingoss.com/) by Karl Fogel
 🏛️ **[claude-living-structure](https://github.com/zhiganov/claude-living-structure)** — Audit software against Christopher Alexander's [15 Properties of Living Structure](https://en.wikipedia.org/wiki/The_Nature_of_Order)
 🎨 **[claude-ui-audit](https://github.com/zhiganov/claude-ui-audit)** — Audit UI features against component patterns, mobile UX, accessibility, and JTBD job mapping
